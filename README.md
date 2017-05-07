@@ -1,5 +1,4 @@
 # noisebox
----
 
 noisebox was written in [Processing](https://processing.org) a long time ago to create and layer abstract noise patterns that can be altered by pitch and tone. These patterns can be further modulated by passing them through things like synths, pedals, etc.
 
